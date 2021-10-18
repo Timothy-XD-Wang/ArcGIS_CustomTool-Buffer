@@ -1,5 +1,6 @@
 # MyProjects
-A collection of my scripts for use with the ArcPy package intended to automate tasks in ArcGIS
+A collection of my scripts for use with the ArcPy package intended to automate tasks in ArcGIS.
+THis repository is current a work in progeress, more samples of my work is to come. 
 
 1 The Buffers.py script seeks to create buffers around a featureclass in ArcGIS Pro. 
   It is meant to be a simplifications of the Multiple Rings Buffer Tool by automating the creation of subsequent buffers. 
