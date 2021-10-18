@@ -18,3 +18,6 @@ A collection of my scripts for use with the ArcPy package intended to automate t
 
   By running the "Custom Tool A5" in ArcGIS Pro, buffers such as the following will be created:
   <img width="746" alt="Screen Shot 2021-10-18 at 7 06 39 PM" src="https://user-images.githubusercontent.com/92761963/137818364-302036a3-10d3-4880-83ec-50c4795ab27e.png">
+
+  The buffers are useful in acting as a distance constraint. 
+  In this case, the buffers are useful to determine the radius around a school/educational institution and solve problems such as whether a school is in the proiximity of a bus stop.
