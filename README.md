@@ -10,7 +10,7 @@ This repository is current a work in progress, more samples of my work is to com
 
 
 2 The MultipleBufferTool.py script is a modification of Buffers.py. 
-  The goal of BMultipleBufferTool.py is to allow the script to be used in the creation of a custom tool directly in ArcGIS Pro
+  The goal of MultipleBufferTool.py is to allow the script to be used in the creation of a custom tool directly in ArcGIS Pro
   It replaces hardcoded inputs with functions that obtains value from ArcPy parameters using the GetParameterAsText and GetParameter functions. 
   All print statements from BufferTool are also changed to the AddMessage function.
 
