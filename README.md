@@ -15,9 +15,11 @@ This repository is current a work in progress, more samples of my work is to com
   All print statements from BufferTool are also changed to the AddMessage function.
 
   Upon setting up a custom tool in ArcGIS Pro with the MultipleBufferTool.py script, the following interface should appear:
+  
 <img width="282" alt="Screen Shot 2021-10-18 at 7 04 27 PM" src="https://user-images.githubusercontent.com/92761963/137818225-88c07b40-9426-42b4-b082-1f8af26b7998.png">
 
   By running the "Custom Tool A5" in ArcGIS Pro, buffers such as the following will be created:
+  
   <img width="746" alt="Screen Shot 2021-10-18 at 7 06 39 PM" src="https://user-images.githubusercontent.com/92761963/137818364-302036a3-10d3-4880-83ec-50c4795ab27e.png">
 
   The buffers are useful in acting as a distance constraint. 
