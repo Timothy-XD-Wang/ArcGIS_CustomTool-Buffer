@@ -1,8 +1,8 @@
 # MyProjects
 An ArcPy script to create user defined functions and custom tools for use in ArcGIS Pro
 
-1 The Buffers.py script seeks to create buffers around a featureclass in ArcGIS Pro. 
-  It is meant to be a simplifications of the Multiple Rings Buffer Tool by automating the creation of subsequent buffers. 
+1 The Buffers.py script seeks to create buffers around a Featureclass in ArcGIS Pro. 
+  It is meant to be a simplification of the Multiple Rings Buffer Tool by automating the creation of subsequent buffers. 
   User inputs are fed through the ArcPy function "Buffer_analysis" to facilitate the creation of buffers. 
   This script is meant to be run using Pycharm or similar IDE. 
 
